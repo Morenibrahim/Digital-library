@@ -2,5 +2,5 @@
 
 Digital libraries are Internet sites consecrated to the creation and preservation of electronic book collections and holdings of other kinds of materials, without the need for end users to purchase the materials they want to consult and read.
 
-# Project Submittion
-This is my project submittion for the creation of digital library LIS322
+# Project Submission
+This is my project submission for the creation of a digital library LIS322
