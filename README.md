@@ -11,7 +11,7 @@ This is my project submission for the creation of a digital library LIS322
 Clone the repo with the command line:
 
 ```
-git clone https://github.com/Eweya/Digital-library.git
+git clone https://github.com/Morenibrahim/Digital-library.git
 ```
 
 Then change to the root directory:
